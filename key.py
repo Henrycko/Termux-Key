@@ -10,7 +10,7 @@ print(a+'\t  Shortcut for help you')
 print(a+'+'*40)
 print('\nProses..')
 sleep(1)
-print(b+'\n[-] Making TERMUX Properties Directory...
+print(b+'\n[-] Making TERMUX Properties Directory...')
 sleep(1)
 try:
       os.mkdir('/data/data/com.termux/files/home/.termux')
