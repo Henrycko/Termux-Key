@@ -31,6 +31,6 @@ sleep(1)
 print(b+'\n[-] Setting up...')
 sleep(2)
 os.system('termux-reload-settings')
-print(a+'[+] Successfully ! ^^'+c+'\n\nThank you for installing :)
+print(a+'[+] Successfully ! ^^'+c+'\n\nThank you for installing :)\n\n')
 
 
