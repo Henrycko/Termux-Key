@@ -6,7 +6,7 @@ a ='\033[92m'
 b ='\033[91m'
 c ='\033[0m'
 os.system('clear')
-print(a+'\t  Shortcut for help you')
+print(a+'\t      Shortcut for help you')
 print(a+'+'*50)
 print('\nProses..')
 sleep(1)
